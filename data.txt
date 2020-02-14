@@ -1,0 +1,18 @@
+Details of the clients
+======================
+ID : 123
+NAME : h
+ACCOUNT NUMBER : 0.43231058
+ADDRESS : svd
+PHONE : 23r
+DATE : 2356
+BALANCE : 33
+Details of the clients
+======================
+ID : 234
+NAME : slk
+ACCOUNT NUMBER : 0.46935883
+ADDRESS : sklndf
+PHONE : 235
+DATE : 2325
+BALANCE : 5
